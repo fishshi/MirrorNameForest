@@ -1,5 +1,5 @@
 # MirrorNameForest
-一个简单的D3D11小程序
+课程作业：一个简单的D3D11小程序
 <br>
 <br>
 实现：<br>
