@@ -1,5 +1,5 @@
 # MirrorNameForest
-课程作业：一个简单的D3D11小程序
+课程作业：镜像字符森林
 <br>
 <br>
 实现：<br>
